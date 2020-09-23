@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import { Button, Form } from "react-bootstrap";
+import React from "react";
 
 const SignUpForm = (props) => {
     const { toggleUser, validation, submit, errors } = props;

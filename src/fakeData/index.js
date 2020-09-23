@@ -30,24 +30,21 @@ const fakeData = [{
     image: featuresImg1,
     name: "Light Bright Air stylish apt and safe peaceful stay",
     price: 44,
-    rating: "4.9(20)",
-    cords: { lat: 21.4171963, lng: 91.977232 }
+    rating: "4.9(20)"
 },
 {
     id: "5",
     image: featuresImg2,
     name: "Air Lounge and pool (r&r + b&b)",
     price: 34,
-    rating: "4.8(25)",
-    cords: { lat: 21.4172171, lng: 91.9772095 }
+    rating: "4.8(25)"
 },
 {
     id: "6",
     image: featuresImg3,
     name: "Apartment in Lost Panaroma",
     price: 44,
-    rating: "4.9(18)",
-    cords: { lat: 21.4172171, lng: 91.9772095 }
+    rating: "4.9(18)"
 }
 ];
 
